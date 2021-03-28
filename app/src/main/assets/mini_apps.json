@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Want to make a decision?",
+    "description": "flip the coin"
+  },
+  {
+    "name": "Advice pocket",
+    "description": "Wanna give advice? Take it from this pocket."
+  },
+  {
+    "name": "Eclairs",
+    "description": "Android 2.0-2.1"
+  },
+  {
+    "name": "Froyo",
+    "description": "Android 2.2-2.3"
+  },
+  {
+    "name": "Gingerbread",
+    "description": "Android 2.3-2.3.7"
+  },
+  {
+    "name": "Honeycomb",
+    "description": "Android 3.0-3.2.6"
+  },
+  {
+    "name": "Icecream",
+    "description": "Android 4.0-4.0.4"
+  },
+  {
+    "name": "Jellybean",
+    "description": "Android 4.1-4.3.1"
+  },
+  {
+    "name": "Kitkat",
+    "description": "Android 4.4-4.4.4"
+  },
+  {
+    "name": "Lolipop",
+    "description": "Android 5.0-5.1.1"
+  },
+  {
+    "name": "Marshmallow",
+    "description": "Android 6.0-6.0.1"
+  },
+  {
+    "name": "Nougat",
+    "description": "Android 7.0-7.1.2"
+  },
+  {
+    "name": "Oreo",
+    "description": "Android 8.0-8.1"
+  },
+  {
+    "name": "Pie",
+    "description": "Android 9.0"
+  }
+]

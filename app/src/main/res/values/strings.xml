@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">getter</string>
+    <string name="flip_tv">TextView</string>
+    <string name="flip_iv_contentDescription">nice picture</string>
+    <string name="flip_refresh_btn_name">flip</string>
+    <string name="new_advice">new advice</string>
+    <string name="ok">OK</string>
+    <string name="flip_progress_bar_msg">thinking…</string>
+    <string name="advice_menu_search_name">Search</string>
+</resources>
